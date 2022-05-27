@@ -1,0 +1,15 @@
+/home/joaoluks/jogo-rpg/bin/Debug/net6.0/jogo-rpg
+/home/joaoluks/jogo-rpg/bin/Debug/net6.0/jogo-rpg.deps.json
+/home/joaoluks/jogo-rpg/bin/Debug/net6.0/jogo-rpg.runtimeconfig.json
+/home/joaoluks/jogo-rpg/bin/Debug/net6.0/jogo-rpg.dll
+/home/joaoluks/jogo-rpg/bin/Debug/net6.0/jogo-rpg.pdb
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.csproj.AssemblyReference.cache
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.AssemblyInfoInputs.cache
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.AssemblyInfo.cs
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.csproj.CoreCompileInputs.cache
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.dll
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/refint/jogo-rpg.dll
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.pdb
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/jogo-rpg.genruntimeconfig.cache
+/home/joaoluks/jogo-rpg/obj/Debug/net6.0/ref/jogo-rpg.dll
